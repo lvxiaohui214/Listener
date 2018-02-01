@@ -10,7 +10,7 @@
     <listener-class>com.bh.MyHttpSessionListener</listener-class>
   </listener> 
   <listener>
-    <listener-class>com.bh.MyHttpServletRequest</listener-class>
+    <listener-class>com.bh.MyServletRequest</listener-class>
   </listener>
   <listener>
     <listener-class>com.bh.MyServletContextAttributeListener</listener-class>

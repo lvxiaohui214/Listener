@@ -4,7 +4,7 @@ import javax.servlet.ServletRequestEvent;
 import javax.servlet.ServletRequestListener;
 
 // ¼àÌýrequestµÄ´´½¨
-public class MyHttpServletRequest implements ServletRequestListener {
+public class MyServletRequest implements ServletRequestListener {
 
 	@Override
 	public void requestDestroyed(ServletRequestEvent arg0) {
